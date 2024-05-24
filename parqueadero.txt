@@ -1,0 +1,1 @@
+Vehiculo {placa = "ABC-123", entrada = 2024-05-24 00:01:49.5250526 UTC, salida = Just 2024-05-24 00:02:06.6931358 UTC}
